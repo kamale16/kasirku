@@ -1,0 +1,22 @@
+{
+  "name": "kasirku",
+  "version": "1.0.0",
+  "description": "Aplikasi kasir (POS) dengan Node.js, Express, dan PostgreSQL",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bin/start.js",
+    "dev": "node --watch bin/start.js",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT",
+  "dependencies": {
+    "@electric-sql/pglite": "^0.3.0",
+    "bcryptjs": "^3.0.0",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0",
+    "helmet": "^8.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.13.0"
+  }
+}

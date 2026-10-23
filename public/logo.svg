@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" role="img" aria-label="KasirKu">
+  <rect width="48" height="48" rx="11" fill="#0f766e"/>
+  <path d="M15 10h18a1.5 1.5 0 0 1 1.5 1.5V38l-3-2-3 2-3-2-3 2-3-2-3 2V11.5A1.5 1.5 0 0 1 15 10z" fill="#fff"/>
+  <path d="M19.5 17h9M19.5 22h9M19.5 27h5" stroke="#0f766e" stroke-width="2.4" stroke-linecap="round"/>
+</svg>
